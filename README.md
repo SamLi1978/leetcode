@@ -1,8 +1,20 @@
 # LeetCode
 
-My solution for LeetCode algorithms which located in https://leetcode.com/problemset/algorithms/
+My solution for LeetCode
 
-1. Two Sum
-2. Add Two Numbers
+Problems
+	Algorithms
+ 
+		1. Two Sum
+		2. Add Two Numbers
+
+
+
+
+Explore
+	Interview
+		Top Interview Questions (Easy Collection)
+
+
 
 
